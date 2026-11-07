@@ -325,5 +325,5 @@ GitHub: [@dharmikadyuti](https://github.com/dharmikadyuti)
 <div align="center">
 
 If you like Debugg, give it a ⭐ — it really helps!
-
+Project maintained by Jahnavi Yellanki.
 </div>
